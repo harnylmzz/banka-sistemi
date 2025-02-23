@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\banka-sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E8275E-E0EE-4965-8614-319DD26EF4C5}|BankingCreditSystem.Domain\\BankingCreditSystem.Domain.csproj|c:\\projects\\banka-sistemi\\bankingcreditsystem.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E8275E-E0EE-4965-8614-319DD26EF4C5}|BankingCreditSystem.Domain\\BankingCreditSystem.Domain.csproj|solutionrelative:bankingcreditsystem.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E32C66-56EA-4224-8A68-5C3BCDE39AE0}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\projects\\banka-sistemi\\bankingcreditsystem.core\\bankingcreditsystem.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62E32C66-56EA-4224-8A68-5C3BCDE39AE0}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\bankingcreditsystem.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Projects\\banka-sistemi\\BankingCreditSystem.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Projects\\banka-sistemi\\BankingCreditSystem.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "BankingCreditSystem.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:30:28.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankingCreditSystem.Core",
+              "DocumentMoniker": "C:\\Projects\\banka-sistemi\\BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj",
+              "ToolTip": "C:\\Projects\\banka-sistemi\\BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj",
+              "RelativeToolTip": "BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T00:29:21.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

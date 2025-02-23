@@ -1,0 +1,13 @@
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\bin\Debug\net9.0\BankingCreditSystem.Core.deps.json
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\bin\Debug\net9.0\BankingCreditSystem.Core.dll
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\bin\Debug\net9.0\BankingCreditSystem.Core.pdb
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.csproj.AssemblyReference.cache
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.AssemblyInfoInputs.cache
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.AssemblyInfo.cs
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.csproj.CoreCompileInputs.cache
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.sourcelink.json
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.dll
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\obj\Debug\net9.0\refint\BankingCreditSystem.Core.dll
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\obj\Debug\net9.0\BankingCreditSystem.Core.pdb
+C:\Projects\banka-sistemi\BankingCreditSystem.Core\obj\Debug\net9.0\ref\BankingCreditSystem.Core.dll
