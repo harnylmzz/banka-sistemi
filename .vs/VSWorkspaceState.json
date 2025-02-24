@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\BankingCreditSystem.Core",
-    "\\BankingCreditSystem.Core\\Repositories"
+    "\\BankingCreditSystem.Core\\Repositories",
+    "\\BankingCreditSystem.Domain",
+    "\\BankingCreditSystem.Domain\\Entities"
   ],
   "SelectedNode": "\\BankingCreditSystem.sln",
   "PreviewInSolutionExplorer": false
